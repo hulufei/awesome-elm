@@ -70,6 +70,8 @@ Inspired by the [awesome](#more-awesome) list thing. Feel free to <a href="https
 * [Elm for Web Developers](https://github.com/eeue56/elm-for-web-developers) - A collection of notes for web developers looking into moving to Elm.
 * [Introducing Elm to JS Web Apps](http://tech.noredink.com/post/126978281075/walkthrough-introducing-elm-to-a-js-web-app) - An article explaining how to get started with Elm by integrating it with your exisiting Javascript framework
 * [How Elm Made Our Work Better](http://futurice.com/blog/elm-in-the-real-world) - How a team built a business-critical web app for a customer using Elm.
+* [How to Read a Type Annotation](https://github.com/elm-guides/elm-for-js/blob/master/How%20to%20Read%20a%20Type%20Annotation.md)
+* [Understanding Tasks and Ports](https://groups.google.com/d/msg/elm-discuss/BR-f9qXbt3k/c-7bHvMgiigJ)
 
 **[:arrow_up: back to top](#table-of-contents)**
 
